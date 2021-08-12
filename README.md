@@ -1,6 +1,3 @@
-# Primary-Livelihood-In-Brgy.-Bahi
-WebDev/Completion/Project
-
 <!DOCTYPE html>
 
 <html>
